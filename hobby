@@ -1,27 +1,19 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta CHarset="utf-8">
-  <title> 13/02/2024</title>
-</head>
-<body>
-  <header>
-
-  </header>
-    <h2> Моє хобі</h2>
-     <a href="index.html"> <h1> hobby </h1></a>
-  <section>
-  <h3> Читання — один з найважливіших видів мовної діяльності, тісно пов’язаний як з вимовою, так і з розумінням мови.
-  Це здатність сприймати, розуміти інформацію, яка записана або передана тим чи іншим способом.
-  <br>
-  <br>
-  Малюванння є способом передати свої думки, почуття, настрої та бачення світу за допомогою зображень </h3>
-
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4-3SGAppFvu74v7tEeNv5rLGXvOnltFlZQ&usqp=CAU" wight="400" border"8">
-
-  </selection>
-  <footer>
-     <h6> kogyt</h6>
-  </footer>
-  </body>
+<DOCTYPE html>
+  <html>
+    <head>
+      <meta charset="uyf-8">
+      <title> hobby </title>
+    </head>
+    <body>
+      <header>
+        Мої хобі
+      </header>
+      <h1> мої роботи </h1>
+    <section>
+      <a href="hobby"> <h2> hobby </h2></a>
+    </section>
+      <footer>
+        <h5>kogut</h5>
+      </footer>
+    </body>
   </html>
